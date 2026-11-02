@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gakaface.github.io/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gakaface.github.io/cantor.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gakaface.github.io/ch.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gakaface.github.io/5.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gakaface.github.io/gama.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gakaface.github.io/in.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gakaface.github.io/Infinite‑Repeating‑Decimals‑Are‑Transcendental‑and‑Irrational.pdf</loc>
   </url>
 </urlset>
